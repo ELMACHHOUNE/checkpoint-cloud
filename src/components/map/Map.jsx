@@ -27,7 +27,7 @@ const GoogleMap = ({ google, location, zoomLevel }) => {
   );
 };
 
-const apiKey = 'AIzaSyAhE18I5xrKhDuGwPThz7ZRHXMp3h9lu5s';
+const apiKey = 'the key';
 
 const getApiKey = () => {
   return {
